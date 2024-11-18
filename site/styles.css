@@ -1,0 +1,5 @@
+a img {
+    width: 300px;
+    height: 150px;
+    object-fit: cover; /* Garante que a imagem será cortada para se ajustar ao tamanho */
+}
